@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="322" viewBox="0 0 900 322" role="img" aria-label="Stack">
+  <defs>
+    <linearGradient id="pnl" x1="0" y1="0" x2="0" y2="322" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F4F8FB"/>
+      <stop offset="100%" stop-color="#E9F0F6"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#3D7C93" stop-opacity="0.65"/>
+      <stop offset="60%"  stop-color="#C9D8E4" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#C9D8E4" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="52" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#3D7C93" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#3D7C93" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#3D7C93" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="inner">
+      <rect x="1" y="1" width="898" height="320" rx="9"/>
+    </clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="899" height="321" rx="9" fill="url(#pnl)" stroke="#C9D8E4"/>
+  <rect x="0.5" y="0.5" width="899" height="2" rx="1" fill="url(#edge)"/>
+
+  <g clip-path="url(#inner)">
+    <rect x="0" y="-52" width="900" height="52" fill="url(#scan)">
+      <animate attributeName="y" from="-52" to="322" dur="8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <text x="26" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="3.4"
+        fill="#3D7C93" opacity="0.85">STACK</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect x="26" y="49" width="3" height="10" fill="#3D7C93" opacity="0.5"/>
+    <text x="39" y="58" font-size="11" letter-spacing="1.6" fill="#7E97AB">LINGUAGENS</text>
+    <text x="210" y="58" font-size="15" fill="#1B2A36">TypeScript · JavaScript · Python · SQL · SourcePawn</text>
+    <rect x="26" y="81" width="3" height="10" fill="#3D7C93" opacity="0.5"/>
+    <text x="39" y="90" font-size="11" letter-spacing="1.6" fill="#7E97AB">FRONT-END</text>
+    <text x="210" y="90" font-size="15" fill="#1B2A36">React · Next.js · Vite · Tailwind · Three.js · GSAP · Motion</text>
+    <rect x="26" y="113" width="3" height="10" fill="#3D7C93" opacity="0.5"/>
+    <text x="39" y="122" font-size="11" letter-spacing="1.6" fill="#7E97AB">BACK-END</text>
+    <text x="210" y="122" font-size="15" fill="#1B2A36">Flask · FastAPI · Express · Node.js · Jinja2</text>
+    <rect x="26" y="145" width="3" height="10" fill="#3D7C93" opacity="0.5"/>
+    <text x="39" y="154" font-size="11" letter-spacing="1.6" fill="#7E97AB">DADOS</text>
+    <text x="210" y="154" font-size="15" fill="#1B2A36">PostgreSQL · XML (Apêndice D) · JSON</text>
+    <rect x="26" y="177" width="3" height="10" fill="#3D7C93" opacity="0.5"/>
+    <text x="39" y="186" font-size="11" letter-spacing="1.6" fill="#7E97AB">INFRA</text>
+    <text x="210" y="186" font-size="15" fill="#1B2A36">Docker · Traefik · Nginx · Let's Encrypt · SSH · Make</text>
+    <rect x="26" y="209" width="3" height="10" fill="#3D7C93" opacity="0.5"/>
+    <text x="39" y="218" font-size="11" letter-spacing="1.6" fill="#7E97AB">TEMPO REAL</text>
+    <text x="210" y="218" font-size="15" fill="#1B2A36">SSE · WebGL · Canvas 2D · Web Audio</text>
+    <rect x="26" y="241" width="3" height="10" fill="#3D7C93" opacity="0.5"/>
+    <text x="39" y="250" font-size="11" letter-spacing="1.6" fill="#7E97AB">INTEGRAÇÕES</text>
+    <text x="210" y="250" font-size="15" fill="#1B2A36">Azure AD · Steam Web API · Open-Meteo · Anthropic</text>
+    <rect x="26" y="273" width="3" height="10" fill="#3D7C93" opacity="0.5"/>
+    <text x="39" y="282" font-size="11" letter-spacing="1.6" fill="#7E97AB">QUALIDADE</text>
+    <text x="210" y="282" font-size="15" fill="#1B2A36">Playwright · ESLint · Prettier · Husky</text>
+  </g>
+</svg>

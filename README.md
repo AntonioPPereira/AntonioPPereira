@@ -44,7 +44,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset=".github/assets/about-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset=".github/assets/about-light.svg">
-    <img src=".github/assets/about-dark.svg" width="100%" alt="Casa: Corcovado Geosub. Função: direção de front-end e arquitetura. Cliente: Petrobras. Entrega: XML, Apêndice D, HTTPS. Sistemas: AIS Web, Suprimentos, Treinamentos. Paralelo: LENDAS Network, Artreus, 2 motores de jogo. Stack: TypeScript, React, Flask, Postgres, Docker. Sem dado inventado: quando a fonte falha, a tela diz que falhou.">
+    <img src=".github/assets/about-dark.svg" width="100%" alt="Casa: Corcovado Geosub. Função: direção de front-end e arquitetura. Cliente: Petrobras. Entrega: XML, Apêndice D, HTTPS. Sistemas: AIS Web, Suprimentos, Treinamentos. Paralelo: LENDAS Network, Artreus, 2 motores de jogo. Sem dado inventado: quando a fonte falha, a tela diz que falhou.">
   </picture>
 </p>
 
@@ -68,19 +68,11 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/React-0B0E13?style=for-the-badge&logo=react&logoColor=BFE9F7"/>
-  <img src="https://img.shields.io/badge/Next.js-0B0E13?style=for-the-badge&logo=next.js&logoColor=E8EEF7"/>
-  <img src="https://img.shields.io/badge/TypeScript-0B0E13?style=for-the-badge&logo=typescript&logoColor=8FA9BF"/>
-  <img src="https://img.shields.io/badge/Three.js-0B0E13?style=for-the-badge&logo=three.js&logoColor=E8EEF7"/>
-  <img src="https://img.shields.io/badge/GSAP-0B0E13?style=for-the-badge&logo=greensock&logoColor=BFE9F7"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-0B0E13?style=for-the-badge&logo=python&logoColor=BFE9F7"/>
-  <img src="https://img.shields.io/badge/FastAPI-0B0E13?style=for-the-badge&logo=fastapi&logoColor=8FA9BF"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0B0E13?style=for-the-badge&logo=postgresql&logoColor=8FA9BF"/>
-  <img src="https://img.shields.io/badge/Docker-0B0E13?style=for-the-badge&logo=docker&logoColor=BFE9F7"/>
-  <img src="https://img.shields.io/badge/Azure-0B0E13?style=for-the-badge&logo=microsoft-azure&logoColor=8FA9BF"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset=".github/assets/skills-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/skills-light.svg">
+    <img src=".github/assets/skills-dark.svg" width="100%" alt="Linguagens: TypeScript, JavaScript, Python, SQL, SourcePawn. Front-end: React, Next.js, Vite, Tailwind, Three.js, GSAP, Motion. Back-end: Flask, FastAPI, Express, Node.js, Jinja2. Dados: PostgreSQL, XML Apêndice D, JSON. Infra: Docker, Traefik, Nginx, Let's Encrypt, SSH, Make. Tempo real: SSE, WebGL, Canvas 2D, Web Audio. Integrações: Azure AD, Steam Web API, Open-Meteo, Anthropic. Qualidade: Playwright, ESLint, Prettier, Husky.">
+  </picture>
 </p>
 
 <br>
