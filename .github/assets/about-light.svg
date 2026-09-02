@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="636" height="326" viewBox="0 0 636 326" role="img" aria-label="Ficha tecnica">
+<svg xmlns="http://www.w3.org/2000/svg" width="636" height="294" viewBox="0 0 636 294" role="img" aria-label="Ficha tecnica">
   <defs>
-    <linearGradient id="pnl" x1="0" y1="0" x2="0" y2="326" gradientUnits="userSpaceOnUse">
+    <linearGradient id="pnl" x1="0" y1="0" x2="0" y2="294" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#F4F8FB"/>
       <stop offset="100%" stop-color="#E9F0F6"/>
     </linearGradient>
@@ -15,16 +15,16 @@
       <stop offset="100%" stop-color="#3D7C93" stop-opacity="0"/>
     </linearGradient>
     <clipPath id="inner">
-      <rect x="1" y="1" width="634" height="324" rx="9"/>
+      <rect x="1" y="1" width="634" height="292" rx="9"/>
     </clipPath>
   </defs>
 
-  <rect x="0.5" y="0.5" width="635" height="325" rx="9" fill="url(#pnl)" stroke="#C9D8E4"/>
+  <rect x="0.5" y="0.5" width="635" height="293" rx="9" fill="url(#pnl)" stroke="#C9D8E4"/>
   <rect x="0.5" y="0.5" width="635" height="2" rx="1" fill="url(#edge)"/>
 
   <g clip-path="url(#inner)">
     <rect x="0" y="-46" width="636" height="46" fill="url(#scan)">
-      <animate attributeName="y" from="-46" to="326" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="y" from="-46" to="294" dur="7s" repeatCount="indefinite"/>
     </rect>
   </g>
 
@@ -50,13 +50,10 @@
     <rect x="26" y="209" width="3" height="10" fill="#3D7C93" opacity="0.5"/>
     <text x="39" y="218" font-size="11" letter-spacing="1.6" fill="#7E97AB">PARALELO</text>
     <text x="178" y="218" font-size="15" fill="#1B2A36">LENDAS Network · Artreus · 2 motores de jogo</text>
-    <rect x="26" y="241" width="3" height="10" fill="#3D7C93" opacity="0.5"/>
-    <text x="39" y="250" font-size="11" letter-spacing="1.6" fill="#7E97AB">STACK</text>
-    <text x="178" y="250" font-size="15" fill="#1B2A36">TypeScript · React · Flask · Postgres · Docker</text>
   </g>
 
-  <rect x="26" y="272" width="584" height="1" fill="#C9D8E4"/>
+  <rect x="26" y="240" width="584" height="1" fill="#C9D8E4"/>
 
-  <text x="26" y="299" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5"
+  <text x="26" y="267" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5"
         fill="#41586B" font-style="italic">Sem dado inventado: quando a fonte falha, a tela diz que falhou.</text>
 </svg>
