@@ -95,3 +95,9 @@
 </h3>
 
 <sub><i>reservado — fase 2</i></sub>
+
+<br>
+
+<p align="center">
+  <img src=".github/assets/north.jpg" width="100%" alt="The North Remembers — House Stark">
+</p>
