@@ -175,7 +175,13 @@
   </picture>
 </p>
 
-<sub><i>reservado — fase 2</i></sub>
+<p>
+  <a href="https://www.linkedin.com/in/antonio-parente-699647231/"><picture><source media="(prefers-color-scheme: dark)"  srcset=".github/assets/ct-linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset=".github/assets/ct-linkedin-light.svg"><img src=".github/assets/ct-linkedin-dark.svg" alt="LinkedIn"></picture></a>
+  <a href="mailto:antonioparentepereira@gmail.com"><picture><source media="(prefers-color-scheme: dark)"  srcset=".github/assets/ct-email-dark.svg"><source media="(prefers-color-scheme: light)" srcset=".github/assets/ct-email-light.svg"><img src=".github/assets/ct-email-dark.svg" alt="E-mail"></picture></a>
+  <a href="https://github.com/AntonioPPereira"><picture><source media="(prefers-color-scheme: dark)"  srcset=".github/assets/ct-github-dark.svg"><source media="(prefers-color-scheme: light)" srcset=".github/assets/ct-github-light.svg"><img src=".github/assets/ct-github-dark.svg" alt="GitHub"></picture></a>
+  <picture><source media="(prefers-color-scheme: dark)"  srcset=".github/assets/ct-discord-dark.svg"><source media="(prefers-color-scheme: light)" srcset=".github/assets/ct-discord-light.svg"><img src=".github/assets/ct-discord-dark.svg" alt="Discord: artriom"></picture>
+  <a href="https://steamcommunity.com/id/Artriom/"><picture><source media="(prefers-color-scheme: dark)"  srcset=".github/assets/ct-steam-dark.svg"><source media="(prefers-color-scheme: light)" srcset=".github/assets/ct-steam-light.svg"><img src=".github/assets/ct-steam-dark.svg" alt="Steam"></picture></a>
+</p>
 
 <br>
 
