@@ -38,18 +38,18 @@
 
 <table>
 <tr>
-<td width="58%" valign="middle">
+<td width="62%" valign="middle">
 
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset=".github/assets/about-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset=".github/assets/about-light.svg">
-    <img src=".github/assets/about-dark.svg" width="100%" alt="Front-end e arquitetura na Corcovado Geosub. Entrego dados AIS para a Petrobras no formato exato que o contrato exige — e desenhei o banco, o TLS e o proxy por trás da entrega. Me importo com o que acontece quando falha: data malformada devolve 400, não a série inteira. Vento indisponível aparece como indisponível, nunca como número estimado. Fora disso: motores de jogo em Canvas 2D, timestep fixo e frame data de verdade.">
+    <img src=".github/assets/about-dark.svg" width="100%" alt="Casa: Corcovado Geosub. Função: direção de front-end e arquitetura. Cliente: Petrobras. Entrega: XML, Apêndice D, HTTPS. Sistemas: AIS Web, Suprimentos, Treinamentos. Stack: React, Flask, Postgres, Docker, Traefik. Além da muralha: dois motores de jogo em Canvas 2D. Falha aparece como falha — nunca como número estimado.">
   </picture>
 </p>
 
 </td>
-<td width="42%" valign="middle">
+<td width="38%" valign="middle">
 
 <img src=".github/assets/tattoo.gif" width="100%" alt="">
 
