@@ -130,7 +130,40 @@
   </picture>
 </p>
 
-<sub><i>reservado — fase 2</i></sub>
+<table>
+<tr>
+<td width="38%">
+  <img src=".github/assets/prod-ais.jpg" width="100%" alt="AIS Web">
+</td>
+<td width="62%">
+  <b>AIS Web</b> — entrega de dados AIS para a Petrobras &nbsp;·&nbsp; <sub>repositório privado</sub>
+  <p>XML no formato exato do Apêndice D — coordenadas com Decimal e ROUND_HALF_UP em vez de float, heading 511 quando indisponível, calado em decímetros. Paginação por ID incremental; data malformada devolve 400, nunca a série inteira. Sobre a mesma base, uma carta náutica 3D onde cada casco é gerado por código a partir das dimensões reais do navio.</p>
+  <sub><code>Python</code> <code>Flask</code> <code>PostgreSQL</code> <code>Three.js</code> <code>Docker</code> <code>Traefik</code></sub>
+</td>
+</tr>
+
+<tr>
+<td width="38%">
+  <img src=".github/assets/prod-suprimentos.jpg" width="100%" alt="Suprimentos">
+</td>
+<td width="62%">
+  <b>Suprimentos</b> — fluxo de compras da operação &nbsp;·&nbsp; <sub>repositório privado</sub>
+  <p>Requisição, aprovação em níveis e ordem de compra num fluxo só (PRC → LV1/LV2 → POC), com acesso definido pelos grupos do Azure AD e histórico completo de quem pediu, aprovou e comprou.</p>
+  <sub><code>React</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Azure AD</code> <code>Docker</code> <code>Nginx</code></sub>
+</td>
+</tr>
+
+<tr>
+<td width="38%">
+  <img src=".github/assets/prod-treinamentos.jpg" width="100%" alt="Treinamentos">
+</td>
+<td width="62%">
+  <b>Treinamentos</b> — conformidade de certificações offshore &nbsp;·&nbsp; <sub>repositório privado</sub>
+  <p>Matriz colaborador × treinamento cruzando o que cada função exige com o que cada um tem — CBSP, NR-33, HUET, SSTA — sinalizando em dia, a vencer e vencido por centro de custo.</p>
+  <sub><code>JavaScript</code> <code>Front-end</code></sub>
+</td>
+</tr>
+</table>
 
 <br><br>
 
