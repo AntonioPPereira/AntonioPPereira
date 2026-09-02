@@ -38,7 +38,7 @@
 
 <table>
 <tr>
-<td width="62%" valign="middle">
+<td width="72%" valign="middle">
 
 <p>
   <picture>
@@ -49,7 +49,7 @@
 </p>
 
 </td>
-<td width="38%" valign="middle">
+<td width="28%" valign="middle">
 
 <img src=".github/assets/tattoo.gif" width="100%" alt="">
 
@@ -93,9 +93,42 @@
   </picture>
 </p>
 
-<sub><i>reservado — fase 2</i></sub>
+<table>
+<tr>
+<td width="38%">
+  <a href="https://github.com/AntonioPPereira/PereiraWorlds"><img src=".github/assets/proj-pereira.jpg" width="100%" alt="Pereira Worlds"></a>
+</td>
+<td width="62%">
+  <b><a href="https://github.com/AntonioPPereira/PereiraWorlds">Pereira Worlds</a></b> — meu site pessoal
+  <p>Sem scroll: uma pilha de camadas fixas sobre quatro cenas em 4K que nunca cortam para preto. Dentro dele, dois jogos com engine escrita do zero — timestep fixo, colisão própria e frame data de verdade.</p>
+  <sub><code>TypeScript</code> <code>Next.js</code> <code>Three.js</code> <code>GSAP</code> <code>Canvas 2D</code></sub>
+</td>
+</tr>
 
-<br><br>
+<tr>
+<td width="38%">
+  <a href="https://lendas-servers.vercel.app"><img src=".github/assets/proj-lendas.jpg" width="100%" alt="LENDAS Network"></a>
+</td>
+<td width="62%">
+  <b><a href="https://lendas-servers.vercel.app">LENDAS Network</a></b> — rede de servidores Counter-Strike: Source &nbsp;·&nbsp; <sub><a href="https://github.com/AntonioPPereira/Lendas-Servers">código</a></sub>
+  <p>Placar ao vivo por SSE, ranking, catálogo de demos e banimentos. Os dados saem de dois plugins em SourcePawn que rodam dentro do servidor de jogo — nada de mock atrás de uma API bonita.</p>
+  <sub><code>TypeScript</code> <code>React</code> <code>Express</code> <code>SourcePawn</code> <code>SSE</code> <code>SFTP</code></sub>
+</td>
+</tr>
+
+<tr>
+<td width="38%">
+  <a href="https://github.com/AntonioPPereira/Artreus"><img src=".github/assets/proj-artreus.jpg" width="100%" alt="Artreus"></a>
+</td>
+<td width="62%">
+  <b><a href="https://github.com/AntonioPPereira/Artreus">Artreus</a></b> — bot de Discord
+  <p>Utilidades, player de música e IA da Anthropic num só bot.</p>
+  <sub><code>Node.js</code> <code>discord.js</code> <code>discord-player</code> <code>Claude</code></sub>
+</td>
+</tr>
+</table>
+
+<br>
 
 <p>
   <picture>
