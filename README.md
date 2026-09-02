@@ -19,7 +19,11 @@
 </p>
 
 <p align="center">
-  <sub>Rio de Janeiro, Brazil &nbsp;·&nbsp; Português &amp; English</sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset=".github/assets/meta-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/meta-light.svg">
+    <img src=".github/assets/meta-dark.svg" width="640" alt="Rio de Janeiro, Brasil — Português &amp; English">
+  </picture>
 </p>
 
 <h3>
