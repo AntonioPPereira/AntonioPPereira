@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="104" viewBox="0 0 760 104" role="img" aria-label="Interfaces que encantam, sistemas que sustentam.">
+  <defs>
+    <linearGradient id="mg" x1="0" y1="18" x2="0" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#F2F7FC"/>
+      <stop offset="55%"  stop-color="#C8DCEA"/>
+      <stop offset="100%" stop-color="#87A2B8"/>
+    </linearGradient>
+
+    <!-- o texto "respira" atras da nevasca: o desfoque vai e volta devagar -->
+    <filter id="haze" x="-12%" y="-60%" width="124%" height="220%">
+      <feGaussianBlur stdDeviation="0.4">
+        <animate attributeName="stdDeviation" values="0.25;0.95;0.25"
+                 dur="9s" repeatCount="indefinite" calcMode="spline"
+                 keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+      </feGaussianBlur>
+    </filter>
+  </defs>
+
+  <g>
+  <circle cx="513.2" cy="-4" r="1.38" fill="#E8EEF7" opacity="0.33">
+    <animate attributeName="cy" from="-4" to="108" dur="11.2s" begin="-5.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="753.6" cy="-4" r="0.89" fill="#E8EEF7" opacity="0.28">
+    <animate attributeName="cy" from="-4" to="108" dur="8.2s" begin="-2.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="250.2" cy="-4" r="0.87" fill="#E8EEF7" opacity="0.30">
+    <animate attributeName="cy" from="-4" to="108" dur="7.9s" begin="-2.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="432.1" cy="-4" r="0.80" fill="#E8EEF7" opacity="0.38">
+    <animate attributeName="cy" from="-4" to="108" dur="7.6s" begin="-1.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="296.2" cy="-4" r="1.33" fill="#E8EEF7" opacity="0.22">
+    <animate attributeName="cy" from="-4" to="108" dur="13.4s" begin="-5.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="551.5" cy="-4" r="1.36" fill="#E8EEF7" opacity="0.29">
+    <animate attributeName="cy" from="-4" to="108" dur="10.2s" begin="-6.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="692.0" cy="-4" r="1.43" fill="#E8EEF7" opacity="0.27">
+    <animate attributeName="cy" from="-4" to="108" dur="13.3s" begin="-12.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="414.0" cy="-4" r="1.33" fill="#E8EEF7" opacity="0.23">
+    <animate attributeName="cy" from="-4" to="108" dur="13.4s" begin="-5.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="475.0" cy="-4" r="0.70" fill="#E8EEF7" opacity="0.35">
+    <animate attributeName="cy" from="-4" to="108" dur="12.6s" begin="-0.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="364.8" cy="-4" r="0.72" fill="#E8EEF7" opacity="0.32">
+    <animate attributeName="cy" from="-4" to="108" dur="10.8s" begin="-5.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="678.0" cy="-4" r="1.47" fill="#E8EEF7" opacity="0.19">
+    <animate attributeName="cy" from="-4" to="108" dur="14.1s" begin="-3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="287.2" cy="-4" r="0.71" fill="#E8EEF7" opacity="0.23">
+    <animate attributeName="cy" from="-4" to="108" dur="12.6s" begin="-3.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="217.3" cy="-4" r="1.00" fill="#E8EEF7" opacity="0.29">
+    <animate attributeName="cy" from="-4" to="108" dur="12.9s" begin="-5.9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="513.4" cy="-4" r="0.65" fill="#E8EEF7" opacity="0.46">
+    <animate attributeName="cy" from="-4" to="108" dur="8.7s" begin="-6.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="80.2" cy="-4" r="0.67" fill="#E8EEF7" opacity="0.19">
+    <animate attributeName="cy" from="-4" to="108" dur="11.0s" begin="-7.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="332.5" cy="-4" r="0.87" fill="#E8EEF7" opacity="0.29">
+    <animate attributeName="cy" from="-4" to="108" dur="7.7s" begin="-1.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="355.2" cy="-4" r="0.71" fill="#E8EEF7" opacity="0.43">
+    <animate attributeName="cy" from="-4" to="108" dur="12.0s" begin="-10.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="55.1" cy="-4" r="1.25" fill="#E8EEF7" opacity="0.32">
+    <animate attributeName="cy" from="-4" to="108" dur="12.1s" begin="-0.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="494.7" cy="-4" r="1.55" fill="#E8EEF7" opacity="0.40">
+    <animate attributeName="cy" from="-4" to="108" dur="14.4s" begin="-8.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="724.8" cy="-4" r="0.81" fill="#E8EEF7" opacity="0.47">
+    <animate attributeName="cy" from="-4" to="108" dur="11.1s" begin="-0.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="495.5" cy="-4" r="0.81" fill="#E8EEF7" opacity="0.46">
+    <animate attributeName="cy" from="-4" to="108" dur="8.6s" begin="-4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="106.2" cy="-4" r="0.92" fill="#E8EEF7" opacity="0.51">
+    <animate attributeName="cy" from="-4" to="108" dur="11.1s" begin="-2.9s" repeatCount="indefinite"/>
+  </circle>
+  </g>
+
+  <text x="380.0" y="40" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="23"
+        font-style="italic" fill="url(#mg)" filter="url(#haze)">Interfaces que encantam, sistemas que sustentam.</text>
+
+  <rect x="270.0" y="58" width="220" height="1" fill="#BFE9F7" opacity="0.28"/>
+
+  <text x="380.0" y="84" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5"
+        letter-spacing="3.2" fill="#7E97AB">FRONT-END  ·  ARQUITETURA  ·  SISTEMAS EM PRODUÇÃO</text>
+</svg>

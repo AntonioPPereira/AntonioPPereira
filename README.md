@@ -11,14 +11,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=BFE9F7&center=true&vCenter=true&width=470&height=26&lines=FRONT-END+DEVELOPER;UX%2FUI+DESIGNER;ARQUITETURA+DE+SISTEMAS" alt="Front-end Developer · UX/UI Designer · Arquitetura de Sistemas">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset=".github/assets/title-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/title-light.svg">
+    <img src=".github/assets/title-dark.svg" width="700" alt="Interfaces que encantam, sistemas que sustentam. Front-end · Arquitetura · Sistemas em produção">
+  </picture>
 </p>
 
 <p align="center">
   <sub>Rio de Janeiro, Brazil &nbsp;·&nbsp; Português &amp; English</sub>
 </p>
-
-<br>
 
 <h3>
   <img src=".github/assets/sigil.png" height="42" align="top" alt="">
