@@ -44,7 +44,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset=".github/assets/about-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset=".github/assets/about-light.svg">
-    <img src=".github/assets/about-dark.svg" width="100%" alt="Interface é metade do trabalho. A outra metade é o que a sustenta: banco, deploy, TLS, proxy. Front-end e arquitetura na Corcovado Geosub — dados AIS entregues à Petrobras, compras aprovadas via Azure AD, conformidade offshore. Por conta própria: dois motores de jogo em Canvas 2D, do timestep fixo ao frame data.">
+    <img src=".github/assets/about-dark.svg" width="100%" alt="Front-end e arquitetura na Corcovado Geosub. Entrego dados AIS para a Petrobras no formato exato que o contrato exige — e desenhei o banco, o TLS e o proxy por trás da entrega. Me importo com o que acontece quando falha: data malformada devolve 400, não a série inteira. Vento indisponível aparece como indisponível, nunca como número estimado. Fora disso: motores de jogo em Canvas 2D, timestep fixo e frame data de verdade.">
   </picture>
 </p>
 
