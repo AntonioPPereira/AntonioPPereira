@@ -44,7 +44,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset=".github/assets/about-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset=".github/assets/about-light.svg">
-    <img src=".github/assets/about-dark.svg" width="100%" alt="Casa: Corcovado Geosub. Função: direção de front-end e arquitetura. Cliente: Petrobras. Entrega: XML, Apêndice D, HTTPS. Sistemas: AIS Web, Suprimentos, Treinamentos. Stack: React, Flask, Postgres, Docker, Traefik. Além da muralha: dois motores de jogo em Canvas 2D. Falha aparece como falha — nunca como número estimado.">
+    <img src=".github/assets/about-dark.svg" width="100%" alt="Casa: Corcovado Geosub. Função: direção de front-end e arquitetura. Cliente: Petrobras. Entrega: XML, Apêndice D, HTTPS. Sistemas: AIS Web, Suprimentos, Treinamentos. Paralelo: LENDAS Network, Artreus, 2 motores de jogo. Stack: TypeScript, React, Flask, Postgres, Docker. Sem dado inventado: quando a fonte falha, a tela diz que falhou.">
   </picture>
 </p>
 
