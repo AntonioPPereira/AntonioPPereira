@@ -33,12 +33,16 @@
 
 <table>
 <tr>
-<td width="70%" valign="middle">
+<td width="58%" valign="middle">
 
-<img src=".github/assets/about.svg" width="100%" alt="Front-end Developer focused on crafting immersive and performant user experiences. Passionate about clean code, design systems, animations and building digital experiences that make an impact. Always learning. Always building. Winterfell remembers.">
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset=".github/assets/about-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset=".github/assets/about-light.svg">
+  <img src=".github/assets/about-dark.svg" width="100%" alt="Interface é metade do trabalho. A outra metade é o que a sustenta: banco, deploy, TLS, proxy. Front-end e arquitetura na Corcovado Geosub — dados AIS entregues à Petrobras, compras aprovadas via Azure AD, conformidade offshore. Por conta própria: dois motores de jogo em Canvas 2D, do timestep fixo ao frame data.">
+</picture>
 
 </td>
-<td width="30%" valign="middle">
+<td width="42%" valign="middle">
 
 <img src=".github/assets/tattoo.gif" width="100%" alt="">
 
