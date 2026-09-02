@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="56" viewBox="0 0 900 56" role="img" aria-label="PRODUCTION WORK">
+  <defs>
+    <linearGradient id="tg" x1="0" y1="16" x2="0" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#F2F7FC"/>
+      <stop offset="60%"  stop-color="#CFE2EF"/>
+      <stop offset="100%" stop-color="#8FA9BF"/>
+    </linearGradient>
+    <linearGradient id="rl" x1="405.0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#BFE9F7" stop-opacity="0.5"/>
+      <stop offset="35%"  stop-color="#4A6072" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#4A6072" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="gl" x1="0" y1="0" x2="90" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#BFE9F7" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#BFE9F7" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#BFE9F7" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="ruleClip">
+      <rect x="405.0" y="27.0" width="489.0" height="2"/>
+    </clipPath>
+  </defs>
+
+  <g>
+  <circle cx="792.1" cy="-3" r="0.78" fill="#E8EEF7" opacity="0.23">
+    <animate attributeName="cy" from="-3" to="59" dur="14.3s" begin="-13.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="704.0" cy="-3" r="0.77" fill="#E8EEF7" opacity="0.35">
+    <animate attributeName="cy" from="-3" to="59" dur="9.3s" begin="-3.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="205.5" cy="-3" r="1.03" fill="#E8EEF7" opacity="0.26">
+    <animate attributeName="cy" from="-3" to="59" dur="10.8s" begin="-1.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="397.3" cy="-3" r="0.87" fill="#E8EEF7" opacity="0.20">
+    <animate attributeName="cy" from="-3" to="59" dur="15.0s" begin="-13.9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="880.2" cy="-3" r="0.99" fill="#E8EEF7" opacity="0.29">
+    <animate attributeName="cy" from="-3" to="59" dur="15.7s" begin="-12.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="288.4" cy="-3" r="1.24" fill="#E8EEF7" opacity="0.17">
+    <animate attributeName="cy" from="-3" to="59" dur="16.0s" begin="-10.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="748.0" cy="-3" r="1.11" fill="#E8EEF7" opacity="0.41">
+    <animate attributeName="cy" from="-3" to="59" dur="15.0s" begin="-14.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="678.2" cy="-3" r="0.81" fill="#E8EEF7" opacity="0.35">
+    <animate attributeName="cy" from="-3" to="59" dur="12.3s" begin="-6.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="589.9" cy="-3" r="1.16" fill="#E8EEF7" opacity="0.41">
+    <animate attributeName="cy" from="-3" to="59" dur="12.1s" begin="-7.2s" repeatCount="indefinite"/>
+  </circle>
+  </g>
+
+  <image href="data:image/png;base64,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" x="12" y="6.0" width="57" height="44"/>
+
+  <text x="87" y="35.0" font-family="Georgia, 'Times New Roman', serif" font-size="21"
+        font-weight="700" letter-spacing="2.4" fill="url(#tg)">PRODUCTION WORK</text>
+
+  <rect x="405.0" y="27.0" width="489.0" height="1" fill="url(#rl)"/>
+
+  <!-- lampejo percorrendo a regua -->
+  <g clip-path="url(#ruleClip)">
+    <rect x="305.0" y="27.0" width="90" height="1" fill="url(#gl)">
+      <animate attributeName="x" from="305.0" to="900" dur="5s"
+               begin="-6.0s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
