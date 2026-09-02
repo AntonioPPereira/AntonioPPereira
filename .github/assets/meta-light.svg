@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="44" viewBox="0 0 700 44" role="img" aria-label="RIO DE JANEIRO, BRASIL — PORTUGUÊS &amp; ENGLISH">
+  <defs>
+    <linearGradient id="fadeL" x1="36" y1="0" x2="118" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#8FA9BF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#8FA9BF" stop-opacity="0.7"/>
+    </linearGradient>
+    <linearGradient id="fadeR" x1="582" y1="0" x2="664" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#8FA9BF" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#8FA9BF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glint" x1="0" y1="0" x2="120" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#4A6072" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#4A6072" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#4A6072" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="line">
+      <text x="350.0" y="27" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="3.2">RIO DE JANEIRO, BRASIL  ◆  PORTUGUÊS &amp; ENGLISH</text>
+    </clipPath>
+  </defs>
+
+  <g>
+  <circle cx="12.5" cy="-3" r="0.58" fill="#A8BCCC" opacity="0.26">
+    <animate attributeName="cy" from="-3" to="47" dur="12.1s" begin="-8.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="81.8" cy="-3" r="0.66" fill="#A8BCCC" opacity="0.43">
+    <animate attributeName="cy" from="-3" to="47" dur="15.1s" begin="-2.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="462.2" cy="-3" r="0.60" fill="#A8BCCC" opacity="0.34">
+    <animate attributeName="cy" from="-3" to="47" dur="13.3s" begin="-5.9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="693.5" cy="-3" r="0.57" fill="#A8BCCC" opacity="0.33">
+    <animate attributeName="cy" from="-3" to="47" dur="9.2s" begin="-8.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="141.4" cy="-3" r="0.73" fill="#A8BCCC" opacity="0.28">
+    <animate attributeName="cy" from="-3" to="47" dur="11.9s" begin="-11.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="154.1" cy="-3" r="0.91" fill="#A8BCCC" opacity="0.45">
+    <animate attributeName="cy" from="-3" to="47" dur="13.4s" begin="-12.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="250.0" cy="-3" r="0.64" fill="#A8BCCC" opacity="0.23">
+    <animate attributeName="cy" from="-3" to="47" dur="15.7s" begin="-15.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="512.7" cy="-3" r="1.11" fill="#A8BCCC" opacity="0.44">
+    <animate attributeName="cy" from="-3" to="47" dur="14.2s" begin="-3.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="509.0" cy="-3" r="0.64" fill="#A8BCCC" opacity="0.23">
+    <animate attributeName="cy" from="-3" to="47" dur="14.1s" begin="-3.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="236.5" cy="-3" r="0.73" fill="#A8BCCC" opacity="0.45">
+    <animate attributeName="cy" from="-3" to="47" dur="12.2s" begin="-7.9s" repeatCount="indefinite"/>
+  </circle>
+  </g>
+
+  <!-- filetes que somem nas pontas, como marcador de instrumento -->
+  <rect x="36" y="23" width="82" height="1" fill="url(#fadeL)"/>
+  <rect x="582" y="23" width="82" height="1" fill="url(#fadeR)"/>
+
+  <text x="350.0" y="27" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="3.2" fill="#5B7386">RIO DE JANEIRO, BRASIL  <tspan fill="#4A6072">◆</tspan>  PORTUGUÊS &amp; ENGLISH</text>
+
+  <!-- brilho passando pela linha -->
+  <g clip-path="url(#line)">
+    <rect x="-130" y="0" width="120" height="44" fill="url(#glint)">
+      <animate attributeName="x" from="-130" to="740" dur="7s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

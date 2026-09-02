@@ -1,28 +1,159 @@
-<table border="0" width="100%">
+<p align="center">
+  <img src=".github/assets/hero.svg" width="100%" alt="House Stark — Winter is Coming">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset=".github/assets/name-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/name-light.svg">
+    <img src=".github/assets/name-dark.svg" width="760" alt="Antonio &quot;Kai&quot; Parente">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset=".github/assets/title-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/title-light.svg">
+    <img src=".github/assets/title-dark.svg" width="700" alt="Interfaces que encantam, sistemas que sustentam. Front-end · Arquitetura · Sistemas em produção">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset=".github/assets/meta-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/meta-light.svg">
+    <img src=".github/assets/meta-dark.svg" width="640" alt="Rio de Janeiro, Brasil — Português &amp; English">
+  </picture>
+</p>
+
+<br>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset=".github/assets/sec-about-me-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/sec-about-me-light.svg">
+    <img src=".github/assets/sec-about-me-dark.svg" width="100%" alt="About me">
+  </picture>
+</p>
+
+<table>
 <tr>
-<td width="60%" valign="top" align="center">
-<img src="https://github.com/user-attachments/assets/60797cf3-5b82-4318-b469-9d5b25356c3c" width="100%"><br><br>
-<strong>𝘼𝙣𝙩𝙤𝙣𝙞𝙤 "𝙆𝙖𝙞" 𝙋𝙖𝙧𝙚𝙣𝙩𝙚</strong><br>
-27 𝙮𝙚𝙖𝙧𝙨 𝙤𝙡𝙙<br>
-𝙍𝙞𝙤 𝙙𝙚 𝙅𝙖𝙣𝙚𝙞𝙧𝙤, 𝘽𝙧𝙖𝙯𝙞𝙡<br>
-𝙋𝙤𝙧𝙩𝙪𝙜𝙪𝙚𝙨𝙚 & 𝙀𝙣𝙜𝙡𝙞𝙨𝙝
+<td width="72%" valign="middle">
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset=".github/assets/about-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/about-light.svg">
+    <img src=".github/assets/about-dark.svg" width="100%" alt="Casa: Corcovado Geosub. Função: direção de front-end e arquitetura. Cliente: Petrobras. Entrega: XML, Apêndice D, HTTPS. Sistemas: AIS Web, Suprimentos, Treinamentos. Paralelo: LENDAS Network, Artreus, 2 motores de jogo. Stack: TypeScript, React, Flask, Postgres, Docker. Sem dado inventado: quando a fonte falha, a tela diz que falhou.">
+  </picture>
+</p>
+
 </td>
-<td width="50%" valign="top" align="center">
-<img width="330" height="328" alt="Image" src="https://github.com/user-attachments/assets/2a4bd608-08ac-4fc9-abe4-04660e9443ca" />
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=FRONT+END+DEVELOPER" alt="Typing SVG"><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=UX%2FUI+DESIGNER" alt="Typing SVG">
-</a>
+<td width="28%" valign="middle">
+
+<img src=".github/assets/tattoo.gif" width="100%" alt="">
+
 </td>
 </tr>
 </table>
 
-<br/>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&text=%20Operational%20Status&fontSize=22&fontColor=00FF41&fontAlign=50&stroke=00FF41&strokeWidth=1" width="100%" />
-<br/><br/>
-<p align="center" style="font-family: monospace;">
+<br>
 
-► 𝘾𝙤𝙧𝙚 𝙎𝙠𝙞𝙡𝙡𝙨: <img src="https://img.shields.io/badge/UX%2FUI-000000?style=flat-square&logo=figma&logoColor=00FF41" height="20"/> <img src="https://img.shields.io/badge/REACT-000000?style=flat-square&logo=react&logoColor=61DAFB" height="20"/> <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=flat-square&logo=typescript&logoColor=3178C6" height="20"/><br><br>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B"/> <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688"/> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4"/>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset=".github/assets/sec-core-skills-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/sec-core-skills-light.svg">
+    <img src=".github/assets/sec-core-skills-dark.svg" width="100%" alt="Core skills">
+  </picture>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-0B0E13?style=for-the-badge&logo=react&logoColor=BFE9F7"/>
+  <img src="https://img.shields.io/badge/Next.js-0B0E13?style=for-the-badge&logo=next.js&logoColor=E8EEF7"/>
+  <img src="https://img.shields.io/badge/TypeScript-0B0E13?style=for-the-badge&logo=typescript&logoColor=8FA9BF"/>
+  <img src="https://img.shields.io/badge/Three.js-0B0E13?style=for-the-badge&logo=three.js&logoColor=E8EEF7"/>
+  <img src="https://img.shields.io/badge/GSAP-0B0E13?style=for-the-badge&logo=greensock&logoColor=BFE9F7"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0B0E13?style=for-the-badge&logo=python&logoColor=BFE9F7"/>
+  <img src="https://img.shields.io/badge/FastAPI-0B0E13?style=for-the-badge&logo=fastapi&logoColor=8FA9BF"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0B0E13?style=for-the-badge&logo=postgresql&logoColor=8FA9BF"/>
+  <img src="https://img.shields.io/badge/Docker-0B0E13?style=for-the-badge&logo=docker&logoColor=BFE9F7"/>
+  <img src="https://img.shields.io/badge/Azure-0B0E13?style=for-the-badge&logo=microsoft-azure&logoColor=8FA9BF"/>
+</p>
+
+<br>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset=".github/assets/sec-portfolio-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/sec-portfolio-light.svg">
+    <img src=".github/assets/sec-portfolio-dark.svg" width="100%" alt="Portfolio">
+  </picture>
+</p>
+
+<table>
+<tr>
+<td width="38%">
+  <a href="https://github.com/AntonioPPereira/PereiraWorlds"><img src=".github/assets/proj-pereira.jpg" width="100%" alt="Pereira Worlds"></a>
+</td>
+<td width="62%">
+  <b><a href="https://github.com/AntonioPPereira/PereiraWorlds">Pereira Worlds</a></b> — meu site pessoal
+  <p>Sem scroll: uma pilha de camadas fixas sobre quatro cenas em 4K que nunca cortam para preto. Dentro dele, dois jogos com engine escrita do zero — timestep fixo, colisão própria e frame data de verdade.</p>
+  <sub><code>TypeScript</code> <code>Next.js</code> <code>Three.js</code> <code>GSAP</code> <code>Canvas 2D</code></sub>
+</td>
+</tr>
+
+<tr>
+<td width="38%">
+  <a href="https://lendas-servers.vercel.app"><img src=".github/assets/proj-lendas.jpg" width="100%" alt="LENDAS Network"></a>
+</td>
+<td width="62%">
+  <b><a href="https://lendas-servers.vercel.app">LENDAS Network</a></b> — rede de servidores Counter-Strike: Source &nbsp;·&nbsp; <sub><a href="https://github.com/AntonioPPereira/Lendas-Servers">código</a></sub>
+  <p>Placar ao vivo por SSE, ranking, catálogo de demos e banimentos. Os dados saem de dois plugins em SourcePawn que rodam dentro do servidor de jogo — nada de mock atrás de uma API bonita.</p>
+  <sub><code>TypeScript</code> <code>React</code> <code>Express</code> <code>SourcePawn</code> <code>SSE</code> <code>SFTP</code></sub>
+</td>
+</tr>
+
+<tr>
+<td width="38%">
+  <a href="https://github.com/AntonioPPereira/Artreus"><img src=".github/assets/proj-artreus.jpg" width="100%" alt="Artreus"></a>
+</td>
+<td width="62%">
+  <b><a href="https://github.com/AntonioPPereira/Artreus">Artreus</a></b> — bot de Discord
+  <p>Utilidades, player de música e IA da Anthropic num só bot.</p>
+  <sub><code>Node.js</code> <code>discord.js</code> <code>discord-player</code> <code>Claude</code></sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset=".github/assets/sec-production-work-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/sec-production-work-light.svg">
+    <img src=".github/assets/sec-production-work-dark.svg" width="100%" alt="Production work">
+  </picture>
+</p>
+
+<sub><i>reservado — fase 2</i></sub>
+
+<br><br>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset=".github/assets/sec-contact-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/sec-contact-light.svg">
+    <img src=".github/assets/sec-contact-dark.svg" width="100%" alt="Contact">
+  </picture>
+</p>
+
+<sub><i>reservado — fase 2</i></sub>
+
+<br>
+
+<p align="center">
+  <img src=".github/assets/north.svg" width="100%" alt="The North Remembers — House Stark">
 </p>
