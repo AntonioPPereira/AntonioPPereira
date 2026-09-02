@@ -2,7 +2,13 @@
   <img src=".github/assets/hero.jpg" width="100%" alt="House Stark — Winter is Coming">
 </p>
 
-<h2 align="center">ANTONIO &nbsp;"KAI"&nbsp; PARENTE</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset=".github/assets/name-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/name-light.svg">
+    <img src=".github/assets/name-dark.svg" width="760" alt="Antonio &quot;Kai&quot; Parente">
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=BFE9F7&center=true&vCenter=true&width=470&height=26&lines=FRONT-END+DEVELOPER;UX%2FUI+DESIGNER;ARQUITETURA+DE+SISTEMAS" alt="Front-end Developer · UX/UI Designer · Arquitetura de Sistemas">
