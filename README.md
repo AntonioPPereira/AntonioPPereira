@@ -44,7 +44,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset=".github/assets/about-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset=".github/assets/about-light.svg">
-    <img src=".github/assets/about-dark.svg" width="100%" alt="Casa: Corcovado Geosub. Função: direção de front-end e arquitetura. Cliente: Petrobras. Entrega: XML, Apêndice D, HTTPS. Sistemas: AIS Web, Suprimentos, Treinamentos. Paralelo: LENDAS Network, Artreus, 2 motores de jogo. Sem dado inventado: quando a fonte falha, a tela diz que falhou.">
+    <img src=".github/assets/about-dark.svg" width="100%" alt="Casa: Corcovado Geosub. Função: direção de front-end e arquitetura. Cliente: Petrobras. Entrega: XML, Apêndice D, HTTPS. Sistemas: AIS Web, Suprimentos, Treinamentos. Paralelo: LENDAS Network, Artreus, 2 motores de jogo.">
   </picture>
 </p>
 
