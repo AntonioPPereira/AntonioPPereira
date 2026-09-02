@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 200 200" role="img" aria-label="Direwolf">
+  <defs>
+    <linearGradient id="pelt" x1="100" y1="14" x2="100" y2="182" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#DCE7F2"/>
+      <stop offset="45%"  stop-color="#9FBACE"/>
+      <stop offset="100%" stop-color="#4A6072"/>
+    </linearGradient>
+    <linearGradient id="muzzle" x1="100" y1="120" x2="100" y2="176" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#6E8799" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#22303C" stop-opacity="0.85"/>
+    </linearGradient>
+    <linearGradient id="frost" x1="0" y1="0" x2="64" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#ffffff" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="eyeGlow" x="-300%" y="-300%" width="700%" height="700%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Cabeca inteira num unico path: orelhas nascem do cranio, sem emenda -->
+    <path id="head" d="M 56 14 L 80 56 L 100 44 L 120 56 L 144 14 L 146 74 L 156 96 L 148 118 L 122 142 L 110 170 L 100 180 L 90 170 L 78 142 L 52 118 L 44 96 L 54 74 Z"/>
+    <clipPath id="headClip"><use href="#head"/></clipPath>
+  </defs>
+
+  <!-- silhueta (stroke garante leitura sobre fundo claro) -->
+  <use href="#head" fill="url(#pelt)" stroke="#3D5265" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- focinho -->
+  <path d="M 82 122 L 118 122 L 108 168 L 100 176 L 92 168 Z" fill="url(#muzzle)"/>
+  <!-- crista central -->
+  <path d="M 100 52 L 103 120 L 97 120 Z" fill="#ffffff" fill-opacity="0.16"/>
+
+  <!-- olhos: inclinados para baixo em direcao ao focinho -->
+  <g filter="url(#eyeGlow)">
+    <path d="M 62 84 L 86 96 L 84 105 L 62 95 Z" fill="#BFE9F7"/>
+    <path d="M 138 84 L 114 96 L 116 105 L 138 95 Z" fill="#BFE9F7"/>
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- varredura de gelo -->
+  <g clip-path="url(#headClip)">
+    <rect x="-70" y="-10" width="64" height="230" fill="url(#frost)" transform="skewX(-16)">
+      <animate attributeName="x" from="-70" to="250" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
